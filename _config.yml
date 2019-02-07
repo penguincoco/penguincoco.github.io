@@ -24,7 +24,7 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
-  instagram: "instagram.com/penguincoco"
+  instagram: "https://www.instagram.com/penguincoco/"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
