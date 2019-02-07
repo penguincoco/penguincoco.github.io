@@ -24,8 +24,7 @@ navigation:                  # (optional) site navigation in the header
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"
-  github: "https://github.com"
-  rss: "/feed.xml"
+  instagram: "instagram.com/penguincoco"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
