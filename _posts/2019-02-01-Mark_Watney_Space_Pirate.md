@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mark Watney Space Pirate!
-categories: [writings]
+category: writings
 tags: [analysis]
 ---
 Why I love The Martian so much that I’ve read it five times in the last three years. 

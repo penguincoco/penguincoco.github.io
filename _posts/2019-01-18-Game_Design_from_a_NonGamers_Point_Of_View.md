@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game Design from a Non-Gamer’s Point of View
-categories: [writings]
+category: writings
 tags: [reflection]
 ---
 

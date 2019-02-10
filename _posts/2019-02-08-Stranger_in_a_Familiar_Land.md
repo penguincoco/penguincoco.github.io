@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Stranger in a Familiar Land
-categories: [writings]
+category: writings
 tags: [reflection]
 ---
 How my ethnic identity has impacted my confidence and emotions for the last decade.
