@@ -21,7 +21,7 @@ navigation:                  # (optional) site navigation in the header
   - index.html
   - untitled.md
   - artwork.md
-  - characterdesign.md
+  - characterdesign.html
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:"

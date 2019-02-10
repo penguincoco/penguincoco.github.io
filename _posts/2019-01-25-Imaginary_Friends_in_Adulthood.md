@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Imaginary Friends in Adulthood
-categories: [writings]
+category: writings
 tags: [reflection]
 ---
 How art and fiction helped me to find my passion and win my mind back.

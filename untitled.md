@@ -1,4 +1,5 @@
 ---
-layout: home
+layout: category
 title: "untitled"
+category: writings
 ---
