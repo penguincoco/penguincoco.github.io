@@ -4,7 +4,7 @@ title: Mark Watney Space Pirate!
 category: writings
 tags: [analysis]
 ---
-Why I love The Martian so much that I’ve read it five times in the last three years. 
+_Why I love The Martian so much that I’ve read it five times in the last three years._
 
 
 “I’m pretty much fucked.” 

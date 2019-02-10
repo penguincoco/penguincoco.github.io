@@ -1,11 +1,10 @@
 ---
 layout: post
 title: Game Design from a Non-Gamer’s Point of View
-category: writings
+categories: [writings]
 tags: [reflection]
 ---
-
-How I went from being able to count all the games I’d ever played in my entire 19 years of life on two hands to a Game Design major.
+_How I went from being able to count all the games I’d ever played in my entire 19 years of life on two hands to a Game Design major._
 
 
 When we’re little, we’re constantly asked, “What do you want to be when you grow up?” I used to think it was only something that adults asked children, but I’ve come to realise that it doesn’t stop once we reach adulthood, it simply changes its face; that “when you grow up” becomes “now that you are grown up”. People start asking us, “why are you studying mathematics?”, “why are you studying film?”, “why are you studying computer science?”. Generally, if someone asks me something I don’t want to answer, I’ll dodge it. But when someone asks me why I’m in Game Design, I don’t dodge. I just don’t have an answer. 

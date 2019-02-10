@@ -19,7 +19,7 @@ dark_theme: false            # enables dark mode
 
 navigation:                  # (optional) site navigation in the header
   - index.html
-  - untitled.md
+  - writings.md
   - artwork.md
   - characterdesign.html
 

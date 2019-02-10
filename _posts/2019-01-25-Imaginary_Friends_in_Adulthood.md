@@ -4,7 +4,7 @@ title: Imaginary Friends in Adulthood
 category: writings
 tags: [reflection]
 ---
-How art and fiction helped me to find my passion and win my mind back.
+_How art and fiction helped me to find my passion and win my mind back._
 
 
 On April 19, 2011, I uploaded my first ever drawing that was not fan art to DeviantART. It was of a mermaid sitting on a rock in the ocean. This likely was not the first character that I’d ever created, but it was the first time I put one on display for the world to see. I was 12 years old. Little did I know, it was the beginning of a journey on which I’d discover my greatest passion in life: character design. 
