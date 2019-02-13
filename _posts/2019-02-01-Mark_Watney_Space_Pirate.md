@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Mark Watney Space Pirate!
+title: "Mark Watney: Space Pirate!"
 category: writings
 tags: [analysis]
 ---

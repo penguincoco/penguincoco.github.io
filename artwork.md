@@ -3,6 +3,12 @@ layout: page
 title: "artwork"
 ---
 
+Wedding Invite
+![Wedding Invite](/assets/artwork/JenJakeInvite.jpg)
+
+四季x鹿　
+![四季x鹿](/assets/artwork/四季x鹿.jpg)
+
 Wonder Woman
 ![Wonder Woman](/assets/artwork/Wonder.jpg)
 Everyone has their favourite thing to draw--mine is Gal Gadot as Wonder Woman!
