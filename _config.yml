@@ -24,8 +24,9 @@ navigation:                  # (optional) site navigation in the header
   - characterdesign.html
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
-  envelope: "mailto:"
+  envelope: "mailto:samantha.s.chuang@gmail.com"
   instagram: "https://www.instagram.com/penguincoco/"
+  etsy: "https://www.etsy.com/shop/penguincucco
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
