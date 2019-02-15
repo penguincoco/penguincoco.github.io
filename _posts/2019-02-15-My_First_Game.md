@@ -7,6 +7,7 @@ tags: [analysis]
 
 _Why I’ve put well over 100 hours into playing_ The Legend of Zelda: Breath of the Wild.
 
+
 Growing up I didn’t get to play a lot of games. But that doesn’t mean I wasn’t a fan of the franchises. As someone with a high appreciation for narrative and worldbuilding, The Legend of Zelda series has always been a big source of fascination and adoration for me--though I couldn’t play the games myself, I’d read a lot about them and watched more theory videos than I’m proud to admit. After years of having to watch playthroughs on YouTube, I finally got the chance to play a Zelda game for myself last year when I bought _Breath of the Wild_. I’d played Until Dawn with a friend, I’d played a range of commonly known games like _Super Smash Bros_ to niche games like Bushido Blade, but _Breath of the Wild_ was the first game that I played by myself and was invested to the point that I was staying up to the wee hour of 3AM on multiple occasions.  
 
 Why was I risking my own health staying up so late playing Zelda, you might ask? 
