@@ -4,7 +4,6 @@ title: My First Game
 category: writings
 tags: [analysis]
 ---
-
 _Why I’ve put well over 100 hours into playing_ The Legend of Zelda: Breath of the Wild.
 
 
