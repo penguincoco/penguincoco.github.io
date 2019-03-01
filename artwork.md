@@ -7,7 +7,7 @@ title: "artwork"
 _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my original characters wearing costumes based on the concept of Bombshell women in the 1940s._ 
 ![Icons - Bombshell Edition](/assets/artwork/IconsBombshellEdition.jpg)
 
-**Wedding Invite**
+**Wedding Invite** 
 _In 2018, I had the privilege of designing an invite for a wedding!_
 ![Wedding Invite](/assets/artwork/JenJakeInvite.jpg)
 
