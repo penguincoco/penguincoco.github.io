@@ -7,8 +7,8 @@ tags: [short_story]
 _A short story about a meatball shaped like Dick Cheney._
 
 
-**Tokyo, Japan.
-18:24 JST.**
+**Tokyo, Japan.**
+**18:24 JST.**
 
 “Tadaima.” 
 
