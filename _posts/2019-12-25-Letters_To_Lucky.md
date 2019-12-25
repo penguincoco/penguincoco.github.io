@@ -6,13 +6,18 @@ tags: [short_story]
 ---
 _A short story about friendship._
 
-February 3, 2017
-Hey Lucky, 
-     Surprise! Yeah! That’s right! I’m writing a letter! Remember when we were in elementary school and would write letters to each other? I remember how much we wanted to mail these letters and our parents wouldn’t let us. I guess that makes sense, we lived on the same street. But that didn’t stop us from drawing fake stamps on the envelopes and dropping them in each other’s cubbies in school. I actually found one of these letters recently and that inspired me to write this! Plus, we don’t live on the same street anymore, so I actually get to mail this! Muahaha!
-     Anyway, how have you been lately!? How are things back home? School started again two weeks ago for me and it’s kind of hard getting back into the swing of things, but I’ll get used to it eventually. I hope lol. Classes have been going alright so far, nothing super hard, but then again, it’s only the second week. I’m not complaining though. I really like my games class so far! The homework is literally just to play games! Isn’t that crazy!? And everyone in the class is so nice, I really hope I can make some new friends! 
-     Anyway, that’s all for now. Hope you don’t mind the letters too much, because I think I’m going to keep writing them instead. It’s cuter ;) 	
-						Love,
-							Samina
+
+                                                                    February 3, 2017
+Hey Lucky,
+    Surprise! Yeah! That’s right! I’m writing a letter! Remember when we were in elementary school and would write letters to each other? I remember how much we wanted to mail these letters and our parents wouldn’t let us. I guess that makes sense, we lived on the same street. But that didn’t stop us from drawing fake stamps on the envelopes and dropping them in each other’s cubbies in school. I actually found one of these letters recently and that inspired me to write this! Plus, we don’t live on the same street anymore, so I actually get to mail this! Muahaha!
+    
+    Anyway, how have you been lately!? How are things back home? School started again two weeks ago for me and it’s kind of hard getting back into the swing of things, but I’ll get used to it eventually. I hope lol. Classes have been going alright so far, nothing super hard, but then again, it’s only the second week. I’m not complaining though. I really like my games class so far! The homework is literally just to play games! Isn’t that crazy!? And everyone in the class is so nice, I really hope I can make some new friends! 
+     Anyway, that’s all for now. Hope you don’t mind the letters too much, because I think I’m going to keep writing them instead. It’s cuter ;)
+     
+            Love,
+                Samina
+
+______________________________________________________________________________________
 
 February 22, 2017
 Hey Lucky, 
