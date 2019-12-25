@@ -1,5 +1,4 @@
 ---
-layout: category
+layout: page
 title: "short stories"
-category: short_stories
 ---
