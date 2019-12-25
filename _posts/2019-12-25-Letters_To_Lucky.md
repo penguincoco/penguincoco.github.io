@@ -8,7 +8,8 @@ _A short story about friendship._
 
 
                                                                     February 3, 2017
-Hey Lucky,
+    
+    Hey Lucky,
     Surprise! Yeah! That’s right! I’m writing a letter! Remember when we were in elementary school and would write letters to each other? I remember how much we wanted to mail these letters and our parents wouldn’t let us. I guess that makes sense, we lived on the same street. But that didn’t stop us from drawing fake stamps on the envelopes and dropping them in each other’s cubbies in school. I actually found one of these letters recently and that inspired me to write this! Plus, we don’t live on the same street anymore, so I actually get to mail this! Muahaha!
     
     Anyway, how have you been lately!? How are things back home? School started again two weeks ago for me and it’s kind of hard getting back into the swing of things, but I’ll get used to it eventually. I hope lol. Classes have been going alright so far, nothing super hard, but then again, it’s only the second week. I’m not complaining though. I really like my games class so far! The homework is literally just to play games! Isn’t that crazy!? And everyone in the class is so nice, I really hope I can make some new friends! 
@@ -21,7 +22,9 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     February 22, 2017
-Hey Lucky,
+
+
+    Hey Lucky,
     You won’t believe what happened. I gave myself the worst haircut ever. I don’t mean this as, “oh, yeah, it just came out kind of lopsided” or, “it didn’t come out the way I wanted”,  I mean this as the worst haircut ever. I was trying to fix my bangs and I gave myself BABY BANGS. They’re so short right now and I look so stupid! It’s hilarious and embarrassing at the same time. I’ve been pinning it back, but now whenever I go outside my forehead feels naked. Does that sound stupid? I feel like it does lol I’m not sure what’s stupider, my haircut or thinking my forehead is NAKED. But HONESTLY, it’s SO embarrassing! What should I do!? I know people probably don’t care, but I legitimately don’t want to talk to anyone because I feel like they think my hair looks so dumb!
     
     Ugh.
@@ -36,7 +39,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     March 10, 2017
-Hey Lucky,
+
+    Hey Lucky,
     It’s been raining here a lot lately. Ugh, I just wish the sun would come out. Rain in the city is disgusting. There are so many puddles, but not the pretty kind you can see your reflection and play in (not the kind of rain you’d like). They’re the kind that are shiny in a weird green way because of the oil they’ve washed up! Disgusting. Still, a little rain is nice to wash away all of the spring pollen. And you’re right, the smell of rain hitting concrete is still one of the best things in the world.
     
     Anyway, an update on my haircut--my bangs have grown back a little, thank goodness for that hahahaha. Classes are still going smoothly. Not much else to report, I suppose. Life’s been uneventful, and honestly, I’m okay with that. No news is better than bad news, right?
@@ -47,7 +51,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     March 23, 2017
-Hey Lucky, 
+
+    Hey Lucky, 
     A bit of a change in setting today. I write to you not from my room but from the glorious...hospital! 
     
     Ugh.
@@ -67,7 +72,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     March 25, 2017
-Hey Lucky,
+
+    Hey Lucky,
     So... I didn’t get to go to class... Didn’t get to play Smash :/ I’m actually still in the hospital...
     
     The doctors said that there’s something wrong with me. Something neurological? I’m not entirely sure, to be honest, and I don’t know if I like it more or less that way. They want to keep me in the hospital for a little longer and they even said they might put me on medication... It all sucks so much. I hate it. 
@@ -77,7 +83,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     May 17, 2017
-Hey Lucky,
+
+    Hey Lucky,
     Sorry, it’s been a while since my last letter. I’m actually back at home right now. So, after my last letter, I was released from the hospital with medication in tow. I took it for a few days, but I started to feel better again, so I stopped. Then, a few days after that, my chest started to hurt again in class. I told my roommate, and she said I should take the medication if I was in pain, but I hate those damn pills, so I didn’t. The next morning, I was in class when the chest pain started again and I couldn’t breathe. I didn’t want to cause a scene, though, so I didn’t say anything... then it got so bad that I legitimately started to cry.
     
     It was so embarrassing.
@@ -91,7 +98,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     June 11, 2017
-Hey Lucky,
+
+    Hey Lucky,
     I’ve been spending most of my time watching movies lately. Makes me think about how we used to take advantage of the 20% off tickets and go to the cinema together on Monday evenings. After the movie we’d get ice cream from Mr. and Mrs. Oleksiy’s ice cream parlour and eat sitting on the abandoned train tracks behind the shop. We’d talk about the movie, school, our classmates, your dream to become a vet, my dream to become a designer, we could talk about anything. Guess Garfield would’ve hated me because Mondays were my favourite days. 
     
     My mom told me a few days ago that the little ice cream shop closed. She said that all of the land in that area was bought and is being turned into yet another bank. She told me which bank it was, but I don’t really give a damn.
@@ -105,7 +113,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     June 30, 2017
-Hey Lucky,
+
+    Hey Lucky,
     I saw my doctor today. I nearly blew a fuse when she asked me why I’m wearing a mask. “It’s not contagious.” THE MASK IS TO PROTECT ME FROM GETTING MORE SICK.
     
     Idiot.
@@ -119,7 +128,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     July 5, 2017
-Hey Lucky,
+
+    Hey Lucky,
     I hate being sick so much. I hate this, I hate everything. I hate that the sun keeps rising and setting, rising and setting, as if everything is normal, but it’s NOT. 
     It’s summer vacation. I should be out having fun, but every time I go out, I just feel tired. It’s those damn pills. 
     I just want to get better... You know that I’ve never believed in a god or anything, but I’ve found myself praying a lot lately. To who? To what? I have no idea. But I just want to get better. I would give up anything to be able to go outside again. Not have to take pills 3 times a day. I’ll never lose my temper again. I’ll give up buying anything. I’d do anything. I’m sick of being SICK. 
@@ -132,7 +142,8 @@ Hey Lucky,
 ______________________________________________________________________________________
 
                                                                     December 16, 2017
-Hey Lucky,
+
+    Hey Lucky,
     Sorry it’s been such a long time, I just haven’t really had much to say lately, I guess. I’m just at home still. I should be back in school, but, well, just at home doing nothing.  
     
     It’s snowing right now. Hell, it’s so pretty. Last time I wrote you I was mad that I couldn’t go out. I guess I don’t really have that problem anymore--I’m kind of glad that it’s winter. Makes me at least feel like there’s something other than being sick stopping me from going outside. 
@@ -179,10 +190,10 @@ Samina wasn’t even sure she was ready to be there again yet. She bit down hard
 
 Clutching the box close to her chest, she peered down at the smooth stone in front of her.
 
-                            _In Loving Memory of_
-                                _Lucky Hibi_
-                        _The girl with the biggest heart._
-                         _November, 1997 ~ January, 2017_
+                                    In Loving Memory of
+                                        Lucky Hibi
+                                The girl with the biggest heart
+                                 November, 1997 ~ January, 2017
 
 “I, uh, I’m sorry that I didn’t come see you sooner... I... I got sick for a while and it was bad. I had to see the doctor, was kept in the hospital for a while, prescribed medication. All of it... I...”
 
