@@ -26,7 +26,7 @@ Just her and Mo.
 
 Mo and her. 
 
-She sighed. People don’t understand her sometimes. Some days she’ll get irritated when someone tries to talk to her but then on others she’ll be like a child star that wants back into the spotlight and desperately look for people to talk to. She was feeling the latter mode, but didn’t want to say it.
+She’s always been that kind of person that likes her alone time, but not too much, if that makes sense. Some days she’ll get irritated when someone tries to talk to her but then on others she’ll be like a child star that wants back into the spotlight and desperately look for people to talk to. Today, she was feeling the latter mode, but didn’t want to say it.
 
 She picked her shoes up and put them neatly onto the rack next to a pair of Oxfords. They hadn’t been worn for nearly a year and were collecting dust, but she refused to put them into storage. It made her feel as though he were still there. God, she wished he was there. He always knew which mood she was in, chatterbug or hermit. She never had to explain to him. 
 
@@ -42,7 +42,9 @@ She wasn’t sure how long she had spaced out for, but her stomach crying, beggi
 
 _I should finish that, shouldn’t I._
 
-But as soon as she opened her lunch bag to reveal the delicious bento box, her stomach clenched and she was overwhelmed by the urge to throw up. This had been happening more and more lately, and it was really starting to get on her nerves. The low blood sugar made her a little bit crabby and tired all of the time. 
+But as soon as she opened her lunch bag to reveal the delicious bento box, her stomach clenched and her appetite disappeared. It’s not that she didn’t want to eat. She thought back to all the times they’d competed at all-you-can-eat sushi and nearly eaten themselves into comas. 
+Nope, definitely not the lack of desire to eat. 
+
 
 _Maybe I should go for a walk. That helps my appetite sometimes. Mo looks like he could use a walk too… And if I start to feel hungry we can go to that little Udon shop by the river._
 
@@ -80,7 +82,7 @@ Her mouth dropped.
 
 “Oh my god! It looks like Dick Cheney!” 
 
-“I KNOW RIGHT?” He beamed. 
+“I _KNOW_ RIGHT?” He beamed. 
 
 “You know you could get famous from this, right? Remember that guy in Florida who had a Jesus-shaped water stain on the side of his house a few years back? He was all over the news for like, two days! You can get famous for this Dick Cheney meatball!” 
 
@@ -108,7 +110,7 @@ She sighed. “I miss you.”
 
 “Don’t let Mo hear you say that.” 
 
-She smiled and did one of those half laughs that’s basically just exhaling through your nose with a high-pitched grunt, but her eyes remained weighted down with sadness. 
+She smiled and did one of those half laughs that’s basically just exhaling through your nose with a high-pitched grunt, but her eyes remained weighed down with sadness. 
 
 “I’m sorry…” He said softly, “I have to, I have to get to work.” 
 
