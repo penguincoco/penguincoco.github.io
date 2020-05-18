@@ -23,6 +23,9 @@ _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my o
 =======
 **Bombshells (2019)** 
 
+<<<<<<< HEAD
+>>>>>>> parent of 97030a8... Japanese test 2
+=======
 >>>>>>> parent of 97030a8... Japanese test 2
 _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my original characters wearing costumes based on the concept of Bombshell women in the 1940s._ 
 ![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Bombshells_LightMode.jpg)
