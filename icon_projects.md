@@ -10,6 +10,7 @@ _A total redesign of all 16 Icons characters!_
 
 **Bombshells (2019)** 
 _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my original characters wearing costumes based on the concept of Bombshell women in the 1940s._ 
-![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Bombshells_LightMode.jpg)
+![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Bombshells_LightMode.jpg  = 100x20)
 ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Bombshells_DarkMode.jpg)
 ![Icons - Vintage Dark Mode](/assets/artwork/IconProjects/Bombshells_VintageMode.jpg)
+
