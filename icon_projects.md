@@ -9,21 +9,21 @@ title: "icon projects"
 	Why I chose 16, I'm still unclear on that myself, butI suspect it had something to do with having an even 4x4 matrix to draw the characters! Whatever the reason, these 16 girls mean the world to me. I don't think I knew it back then, but these 16 original Icons would grow beyond just a one-time project of displaying 16 of my most significant characters together, but would evolve to yearly projects of drawing them in various costumes.
 
 
-**Redesign (2020)**<br/>
+**Redesign (2020)**
 _A total redesign of all 16 Icons characters!_  
 ![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign_LightMode.jpg) ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Redesign_DarkMode.jpg)
 
-**Pokemon (2019)**<br/>
+**Pokemon (2019)**
 _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my original characters wearing costumes based on the concept of Bombshell women in the 1940s._ 
 ![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Pokemon_LightMode.jpg)
 ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Pokemon_DarkMode.jpg)
 
-**Bombshells (2019, 2017)**<br/>
+**Bombshells (2019)** 
 _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my original characters wearing costumes based on the concept of Bombshell women in the 1940s._ 
 ![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Bombshells_LightMode.jpg)
 ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Bombshells_DarkMode.jpg)
 ![Icons - Vintage Dark Mode](/assets/artwork/IconProjects/Bombshells_VintageMode.jpg)
 
-**Oktoberfest (2019, 2018)**<br/>
+**Oktoberfest (2019, 2018)**
 ![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Oktoberfest_LightMode.jpg)
 ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Oktoberfest_DarkMode.jpg)
