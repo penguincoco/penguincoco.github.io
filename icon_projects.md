@@ -13,12 +13,17 @@ Why I chose 16, I’m still unclear on that myself, but I suspect it had something
 _A total redesign of all 16 Icons characters!_  
 ![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign_LightMode.jpg) ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Redesign_DarkMode.jpg)
 
+<<<<<<< HEAD
 **Pokemon (2019)**<br/>
 _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my original characters wearing costumes based on the concept of Bombshell women in the 1940s._ 
 ![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Pokemon_LightMode.jpg)
 ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Pokemon_DarkMode.jpg)
 
 **Bombshells (2019, 2017)**<br/>
+=======
+**Bombshells (2019)** 
+
+>>>>>>> parent of 97030a8... Japanese test 2
 _Inspired by DC Comics' series "Bombshells" I created a collection of 16 of my original characters wearing costumes based on the concept of Bombshell women in the 1940s._ 
 ![Icons - Bombshells Light Mode](/assets/artwork/IconProjects/Bombshells_LightMode.jpg)
 ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Bombshells_DarkMode.jpg)
