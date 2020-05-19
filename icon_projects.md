@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "icon projects"
+category: icon projects
 ---
 
 **Introduction**
@@ -15,7 +16,8 @@ Why I chose 16, I'm still unclear on that myself, but I suspect it had something
 **Redesign (2020)**
 
 _A total redesign of all 16 Icons characters!_  
-![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign_LightMode.jpg) ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Redesign_DarkMode.jpg)
+![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign_LightMode.jpg) 
+![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Redesign_DarkMode.jpg)
 
 **Pokemon (2019)**
 
