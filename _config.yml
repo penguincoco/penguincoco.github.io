@@ -22,6 +22,7 @@ navigation:                  # (optional) site navigation in the header
   - writings.md
   - artwork.md
   - icon_projects.md
+  - shortstories.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:samantha.s.chuang@gmail.com"
@@ -29,6 +30,7 @@ icons:                       # (optional) icons in the header, see http://fontaw
   etsy: "https://www.etsy.com/shop/penguincucco/"
   twitch: "https://www.twitch.tv/penguincoco"
   itch-io: "https://itch.io/profile/penguincoco"
+  youtube: "https://www.youtube.com/channel/UC5wE9w5h7eawYhbzmW2Ip9g"
 
 comments:                    # embed disqus or isso comments
 #  disqus: ""
