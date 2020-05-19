@@ -11,7 +11,6 @@
 <link rel="stylesheet" href="{{ site.style | default: "default" | prepend: "/assets/css/" | append: ".css" | relative_url }}">
 {% if site.plugins contains "jekyll-feed" %}<link rel="alternate" type="application/atom+xml" href="{{ "/feed.xml" | relative_url }}" title="{{ site.title }}" />{% endif %}
 {% if page.mathjax or site.mathjax %}
-{% if page.mathjax or site.mathjax %}
 <link rel="stylesheet" href="{{ "/assets/katex/katex.min.css" | relative_url }}">
 <script defer src="{{ "/assets/katex/katex.min.js" | relative_url }}"></script>
 <script defer src="{{ "/assets/katex/contrib/mathtex-script-type.min.js" | relative_url }}"></script>
