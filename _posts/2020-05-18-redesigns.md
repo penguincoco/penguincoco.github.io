@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redesign
-category: shortstories
+category: writings
 ---
 
 **Redesign (2020)**
