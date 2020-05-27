@@ -23,7 +23,7 @@ navigation:                  # (optional) site navigation in the header
   - artwork.md
   - icon_projects.md
   - shortstories.md
-  - iconPrpojects.md
+  - iconProjects.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
   envelope: "mailto:samantha.s.chuang@gmail.com"
