@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Redesign
+title: Redesign (2020)
 category: shortstories
 ---
 
