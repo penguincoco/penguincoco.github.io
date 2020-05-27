@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Redesign (2020)
-category: shortstories
+category: iconProjects
 ---
 
 **Redesign (2020)**
