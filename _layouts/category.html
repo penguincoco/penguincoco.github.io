@@ -9,9 +9,9 @@ layout: default
 {% if post.category == page.category %}
 <article>
   <header>
-    {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
+    <!-- {%- assign date_format = site.date_format | default: "%B %d, %Y" -%}
     <h1><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h1>
-    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time>
+    <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: date_format }}</time> -->
   </header>
   {{ post.excerpt }}
   {% unless post.excerpt == post.content %}
