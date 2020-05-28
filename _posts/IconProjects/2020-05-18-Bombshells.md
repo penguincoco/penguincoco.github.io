@@ -3,7 +3,7 @@ layout: post
 title: Bombshells (2019, 2017)
 category: iconProjects
 ---
-_A total redesign of all 16 Icons characters!_  
+_Inspired by DC Comics' series "Bombshells", an imagining of all 16 Icon characters as World War II Bombshells!_ 
 
 
 
@@ -26,7 +26,7 @@ Redraw (2019)
 ![Icons - Bombshells Vintage Mode (2019)](/assets/artwork/IconProjects/Bombshells_VintageMode.jpg)
 
 Original Design Sketches
-![Icons - Bombshells Concept 1](/assets/artwork/IconProjects/Bombshells_Concept1.jpg)
-![Icons - Bombshells Concept 2](/assets/artwork/IconProjects/Bombshells_Concept2.jpg)
-![Icons - Bombshells Concept 3](/assets/artwork/IconProjects/Bombshells_Concept3.jpg)
-![Icons - Bombshells Concept 4](/assets/artwork/IconProjects/Bombshells_Concept4.jpg)
+![Icons - Bombshells Concept 1](/assets/artwork/IconProjects/Bombshells_Concept1.png)
+![Icons - Bombshells Concept 2](/assets/artwork/IconProjects/Bombshells_Concept2.png)
+![Icons - Bombshells Concept 3](/assets/artwork/IconProjects/Bombshells_Concept3.png)
+![Icons - Bombshells Concept 4](/assets/artwork/IconProjects/Bombshells_Concept4.png)
