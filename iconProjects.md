@@ -4,7 +4,7 @@ title: "Icon Projects"
 category: iconProjects
 ---
 
-**Introduction**
+# Introduction
 
 For as long as I can remember, I've always loved creating characters. I love giving them nnames, personalities, trying as much as possible to turn them into real people. In 2011, I created a DeviantART account and began posting my characters, but looking back on it now, I think this love for character creation started long before then. I was definitely a kid with lots of imaginary friends, and I've found old drawings dating to before 2011 of characters I'd dreamed up. But, for the sake of putting a date on it, I say my journey as a character creator began in 2011.
 
