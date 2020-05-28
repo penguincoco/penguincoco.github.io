@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bombshells (2019, 2017)
+title: Bombshells (2018, 2017)
 category: iconProjects
 ---
 _Inspired by DC Comics' series "Bombshells", an imagining of all 16 Icon characters as World War II Bombshells!_ 
@@ -17,15 +17,19 @@ Spell would have been a liberator, a special forces freedom fighter. Khiri would
 
 I liked their designs so much that I did something I typically don't do with the Yearly Design Projects: redraw it. However, I did not redesign outfits or make major modifications to their original designs. It was more just an update on graphics, so to say. I've been debating redrawing other projects, like the Dress Edition, but I think that may end up involving changing the designs. I think what motivated me to redraw it was purely the fact that I liked the Bombshells concept and all 16 designs so much. 
 
-Original (2017)
+
+**Original (2017)**
+
 ![Icons - Bombshells Original (2017)](/assets/artwork/IconProjects/Bombshells_Original.png) 
 
-Redraw (2019)
-![Icons - Bombshells Light Mode (2019)](/assets/artwork/IconProjects/Bombshells_LightMode.jpg) 
-![Icons - Bombshells Dark Mode (2019)](/assets/artwork/IconProjects/Bombshells_DarkMode.jpg)
-![Icons - Bombshells Vintage Mode (2019)](/assets/artwork/IconProjects/Bombshells_VintageMode.jpg)
+**Redraw (2018)**
 
-Original Design Sketches
+![Icons - Bombshells Light Mode (2018)](/assets/artwork/IconProjects/Bombshells_LightMode.jpg) 
+![Icons - Bombshells Dark Mode (2018)](/assets/artwork/IconProjects/Bombshells_DarkMode.jpg)
+![Icons - Bombshells Vintage Mode (2018)](/assets/artwork/IconProjects/Bombshells_VintageMode.jpg)
+
+**Original Design Sketches**
+
 ![Icons - Bombshells Concept 1](/assets/artwork/IconProjects/Bombshells_Concept1.png)
 ![Icons - Bombshells Concept 2](/assets/artwork/IconProjects/Bombshells_Concept2.png)
 ![Icons - Bombshells Concept 3](/assets/artwork/IconProjects/Bombshells_Concept3.png)
