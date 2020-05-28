@@ -20,7 +20,8 @@ dark_theme: false            # enables dark mode
 navigation:                  # (optional) site navigation in the header
   - index.html
   - writings.md
-  - artwork.md
+ # - artwork.md
+  - myGames.md
   - iconProjects.md
 
 icons:                       # (optional) icons in the header, see http://fontawesome.com/icons
