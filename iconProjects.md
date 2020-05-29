@@ -31,6 +31,21 @@ Whilst I don't design in the order that the Icons are listed, Spell typically st
 Again, all of these girls originated as fan characters for franchises that I like and admire, but as time goes on, the role of the universe they come from plays a smaller and smaller role. Whilst coming up with designs for each character, who they are in their universe plays almost no role at all in determining their costume. 
 
 **Spell**
+**Khiri**
+**Dvora**
+**Kit**
+**Kaina**
+**Meghan**
+**Minola**
+**Kohli**
+**Kati**
+**Trinity**
+**Arietta**
+**Kaiya**
+**Kari**
+**Zara**
+**Blaire**
+**Miradi**
 
 ## Projects Over Time
 
