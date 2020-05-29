@@ -7,3 +7,5 @@ _A soothing walking sim with environment puzzles._
 
 
 [Cloud Forest](https://penguincoco.itch.io/cloud-forest)
+
+![Cloud Forest](/assets/artwork/MyGames/CloudForest_Outer.jpg) 
