@@ -28,7 +28,7 @@ Whilst I don't design in the order that the Icons are listed, Spell typically st
  
 
 ## The Icons
-[Introductions]({{ site.baseurl }}{% post_urls 2020-05-18-Icons %})
+[Introductions]({{ site.baseurl }}{% post_url 2020-05-18-Icons %})
 
 ## Projects Over Time
 
