@@ -17,9 +17,13 @@ Why I chose 16, I'm still unclear on that myself, but I suspect it had something
 ## Design Considerations
 
 When it comes to designing a costume, there are a few things that I take into consideration. 
-	1. The character's original colour scheme. 
+
+	1. The character's original colour scheme and costume.
+
 	2. The character's personality and interests. 
+
 	3. The character's cultural background. 
+
 All of these elements play a role in how I design each character's costume, but at a different extent for each Icon. 
 
 All of the Icon project editions fall into one of two categories: following a piece of clothing--like a dress or kimono--and following a theme--like Bombshells or Pokemon.
