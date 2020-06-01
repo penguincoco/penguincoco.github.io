@@ -6,7 +6,7 @@ category: iconProjects
 _Inspired by DC Comics' series "Bombshells", an imagining of all 16 Icon characters as World War II Bombshells!_ 
 
 
-Jump to Section
+**Jump to Section**
 
 [About](#about-this-theme)	|	[Each Character](#each-character)	|	[Original](#original-2017)	|	[Redraw](#redraw-2018)	|	[Original Design Sketches](#original-design-sketches)	|	[Other Artworks](#other-bombshells-artworks)
 
@@ -39,4 +39,4 @@ Something different about this project, as well, was the design considerations b
 
 #### **Other Bombshells Artworks**
 
-![Icons - Bombshells Concept 4](/assets/artwork/IconProjects/Bombshells_Pinups.jpg)
+![Icons - Bombshells Pinups](/assets/artwork/IconProjects/Bombshells_Pinups.jpg)
