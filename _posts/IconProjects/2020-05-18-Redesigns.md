@@ -23,7 +23,7 @@ The challenging part of most of the designs was designing something that was dif
 Here are the comparisons for each costume for each character.
 
 # Spell
-![Icons - Redesign Comparison - Spell](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Spell.jpg)
+![Icons - Redesign Comparison - Spell](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Spell.jpg =300x300)
 
 # Khiri
 ![Icons - Redesign Comparison - Khiri](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Khiri.jpg)
@@ -46,6 +46,6 @@ Here are the comparisons for each costume for each character.
 # Kohli
 ![Icons - Redesign Comparison - Kohli](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Kohli.jpg)
 
-#### **Redesign (2020(**
+#### **Redesign (2020)**
 ![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign/Redesign_LightMode.jpg) 
 ![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Redesign/Redesign_DarkMode.jpg)
