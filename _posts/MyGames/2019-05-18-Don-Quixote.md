@@ -22,8 +22,8 @@ I was assigned Don Quixote for this project. Having never read any of the books,
 
 Please check out the game [here](https://penguincoco.itch.io/don-quixote-narrative-assignment)!
 
-![Don Quixote Screenshot1](/assets/artwork/MyGames/DonQuixote/DonQuixote/DonQuixote_Screenshot2.jpg) 
-![Don Quixote Screenshot2](/assets/artwork/MyGames/DonQuixote/DonQuixote/DonQuixote_Cardenio_Screenshot2.jpg)
-![Don Quixote Screenshot3](/assets/artwork/MyGames/DonQuixote/DonQuixote/DonQuixote_AndresJuanHaldudo_Screenshot3.jpg)
+![Don Quixote Screenshot1](/assets/artwork/MyGames/DonQuixote/DonQuixote_Screenshot2.jpg) 
+![Don Quixote Screenshot2](/assets/artwork/MyGames/DonQuixote/DonQuixote_Cardenio_Screenshot2.jpg)
+![Don Quixote Screenshot3](/assets/artwork/MyGames/DonQuixote/DonQuixote_AndresJuanHaldudo_Screenshot3.jpg)
 
 
