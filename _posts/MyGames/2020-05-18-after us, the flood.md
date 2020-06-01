@@ -17,7 +17,7 @@ Although I was originally onboarded as a VFX artist, I ended up working heavily 
 
 My main contributions to the project were implementing non-animated visual feedback, basic audio passing (excluding the music) and the current implementation of the rhythm game. 
 
-Please check out the game here! [after us, the flood](https://autf.itch.io/afterus-demo)
+Please check out the game [here](https://autf.itch.io/afterus-demo)!
 
-![after us, the flood - Rhythm Game](/assets/artwork/MyGames/after us, the flood_rhythmGame.png) 
-![after us, the flood - Overworld](/assets/artwork/MyGames/after us, the flood_overworld1.png)
+![after us, the flood - Rhythm Game](/assets/artwork/MyGames/afterus,theflood/after us, the flood_rhythmGame.png) 
+![after us, the flood - Overworld](/assets/artwork/MyGames/afterus,theflood/after us, the flood_overworld1.png)
