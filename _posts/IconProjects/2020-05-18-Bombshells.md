@@ -39,4 +39,4 @@ Something different about this project, as well, was the design considerations b
 
 #### **Other Bombshells Artworks**
 
-![Icons - Bombshells Pinups](/assets/artwork/IconProjects/Bombshells_Pinups.jpg)
+![Icons - Bombshells Pinups](/assets/artwork/IconProjects/Bombshells_Pinups.png)
