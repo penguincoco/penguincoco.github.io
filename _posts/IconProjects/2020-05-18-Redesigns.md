@@ -18,6 +18,33 @@ All of the Icon characters were originally created and designed between 2011 and
 The redesign was a lot of fun to do, especially since every character's personality has changed in some capacity since 2016.
 
 #### **Each Character**
+The challenging part of most of the designs was designing something that was different, yet similar and recognisable from the previous iteration. 
+
+Here are the comparisons for each costume for each character.
+
+# Spell
+![Icons - Redesign Comparison - Spell](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Spell.jpg)
+
+# Khiri
+![Icons - Redesign Comparison - Khiri](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Khiri.jpg)
+
+# Dvora
+![Icons - Redesign Comparison - Dvora](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Dvora.jpg)
+
+# Kit
+![Icons - Redesign Comparison - Kit](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Kit.jpg)
+
+# Kaina
+![Icons - Redesign Comparison - Kaina](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Kaina.jpg)
+
+# Meghan
+![Icons - Redesign Comparison - Meghan](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Meghan.jpg)
+
+# Minola
+![Icons - Redesign Comparison - Minola](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Minola.jpg)
+
+# Kohli
+![Icons - Redesign Comparison - Kohli](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Kohli.jpg)
 
 #### **Redesign (2020(**
 ![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign/Redesign_LightMode.jpg) 
