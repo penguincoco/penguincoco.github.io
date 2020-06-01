@@ -22,28 +22,28 @@ The challenging part of most of the designs was designing something that was dif
 
 Here are the comparisons for each costume for each character.
 
-#### **Spell and Khiri**
+### **Spell and Khiri**
 ![Icons - Redesign Comparison - Spell and Khiri](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Spell_Khiri.jpg)
 
-#### **Dvora and Kit**
+### **Dvora and Kit**
 ![Icons - Redesign Comparison - Dvora and Kit](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Dvora_Kit.jpg)
 
-#### **Kaina and Meghan**
+### **Kaina and Meghan**
 ![Icons - Redesign Comparison - Kaina and Meghan](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Kaina_Meghan.jpg)
 
-#### **Minola and Kohli**
+### **Minola and Kohli**
 ![Icons - Redesign Comparison - Minola and Kohli](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Minola_Kohli.jpg)
 
-#### **Kati and Trinity**
+### **Kati and Trinity**
 ![Icons - Redesign Comparison - Kati and Trinity](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Kati_Trinity.jpg)
 
-#### **Arietta and Kaiya**
+### **Arietta and Kaiya**
 ![Icons - Redesign Comparison - Arietta and Kaiya](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Arietta_Kaiya.jpg)
 
-#### **Kari and Zara**
+### **Kari and Zara**
 ![Icons - Redesign Comparison - Kari and Zara](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Kari_Zara.jpg)
 
-#### **Blaire and Miradi**
+### **Blaire and Miradi**
 ![Icons - Redesign Comparison - Blaire and Miradi](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Blaire_Miradi.jpg)
 
 ## **Redesign (2020)**
