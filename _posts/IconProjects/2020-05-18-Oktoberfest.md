@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Oktoberfest (2019, 2018)
-category: iconProjects
 ---
 _"Oans, zwoa, drei, g'suffa!"_ 
 
