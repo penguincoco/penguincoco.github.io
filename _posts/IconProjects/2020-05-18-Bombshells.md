@@ -18,7 +18,7 @@ Spell would have been a liberator, a special forces freedom fighter. Khiri would
 I liked their designs so much that I did something I typically don't do with the Yearly Design Projects: redraw it. However, I did not redesign outfits or make major modifications to their original designs. It was more just an update on graphics, so to say. I've been debating redrawing other projects, like the Dress Edition, but I think that may end up involving changing the designs. I think what motivated me to redraw it was purely the fact that I liked the Bombshells concept and all 16 designs so much. 
 
 
-##### Original (2017)
+#### **Original (2017)**
 
 ![Icons - Bombshells Original (2017)](/assets/artwork/IconProjects/Bombshells_Original.png) 
 
