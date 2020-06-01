@@ -23,25 +23,16 @@ The challenging part of most of the designs was designing something that was dif
 Here are the comparisons for each costume for each character.
 
 # Spell and Khiri
-![Icons - Redesign Comparison - Spell](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Spell_Khiri.jpg)
+![Icons - Redesign Comparison - Spell and Khiri](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Spell_Khiri.jpg)
 
-# Dvora
-![Icons - Redesign Comparison - Dvora](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Dvora.jpg)
+# Dvora and Kit
+![Icons - Redesign Comparison - Dvora and Kit](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Dvora_Kit.jpg)
 
-# Kit
-![Icons - Redesign Comparison - Kit](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Kit.jpg)
+# Kaina and Meghan
+![Icons - Redesign Comparison - Kaina and Meghan](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Kaina_Meghan.jpg)
 
-# Kaina
-![Icons - Redesign Comparison - Kaina](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Kaina.jpg)
-
-# Meghan
-![Icons - Redesign Comparison - Meghan](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Meghan.jpg)
-
-# Minola
-![Icons - Redesign Comparison - Minola](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Minola.jpg)
-
-# Kohli
-![Icons - Redesign Comparison - Kohli](/assets/artwork/IconProjects/Redesign/Redesign_Comparison_Kohli.jpg)
+# Minola and Kohli
+![Icons - Redesign Comparison - Minola and Kohli](/assets/artwork/IconProjects/Redesign/Redesign_Comparisons_Minola_Kohli.jpg)
 
 #### **Redesign (2020)**
 ![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign/Redesign_LightMode.jpg) 
