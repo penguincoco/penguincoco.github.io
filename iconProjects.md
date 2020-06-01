@@ -31,7 +31,9 @@ Whilst I don't design in the order that the Icons are listed, Spell typically st
  
 
 ## The Icons
-[Introductions]({{ site.baseurl }}{% post_url 2020-05-18-Icons %})
+Again, all of these girls originated as fan characters for franchises that I like and admire, but as time goes on, the role of the universe they come from plays a smaller and smaller role. Whilst coming up with designs for each character, who they are in their universe plays almost no role at all in determining their costume. 
+
+Read more on each of the Icons [here]({{ site.baseurl }}{% post_url 2020-05-18-Icons %})!
 
 ## Projects Over Time
 

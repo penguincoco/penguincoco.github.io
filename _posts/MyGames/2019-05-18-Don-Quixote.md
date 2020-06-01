@@ -18,7 +18,8 @@ In these three side quests, you play as Rodrigo, a Santa Hermandad officer that 
 
 **Main Quest**: Arrest Don Quixote. There are reports coming in from all over the country of a crazy man wearing a full suit of armour, going by the name of Don Quixote, and a stout man causing mass destruction everywhere they go. Rodrigo and his partner, Francisco, are tasked with finding this troublesome pair and bringing him to justice. But do you have what it takes to arrest the so-called Don Quixote? 
 
-I was assigned Don Quixote for this project. Having never read any of the books, did a lot of in-depth research and ended up with  a brief, but still 20-page long, research doc that included things as basic as a summary of both of the books to advanced as thematic elements such as perspective and narration, Quixotism and chivalry and morality, and class and worth. These two side quests and main quest, in tandem, intend to explore morality and through that lens, develop the new add-on character of Rodrigo. 
+## My role on the project
+Having never read any of the books, I did a lot of in-depth research and ended up with a brief, but still 20-page long, research doc that included things as basic as a summary of both of the books to advanced as thematic elements such as perspective and narration, Quixotism and chivalry and morality, and class and worth. These two side quests and main quest, in tandem, intend to explore morality and through that lens, develop the new add-on character of Rodrigo. 
 
 Please check out the game [here](https://penguincoco.itch.io/don-quixote-narrative-assignment)!
 
