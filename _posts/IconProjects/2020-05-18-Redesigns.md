@@ -20,5 +20,5 @@ The redesign was a lot of fun to do, especially since every character's personal
 #### **Each Character**
 
 #### **Redesign (2020(**
-![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign_LightMode.jpg) 
-![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Redesign_DarkMode.jpg)
+![Icons - Redesign Light Mode](/assets/artwork/IconProjects/Redesign/Redesign_LightMode.jpg) 
+![Icons - Redesign Dark Mode](/assets/artwork/IconProjects/Redesign/Redesign_DarkMode.jpg)

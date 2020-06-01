@@ -22,21 +22,21 @@ Something different about this project, as well, was the design considerations b
 
 #### **Original (2017)**
 
-![Icons - Bombshells Original (2017)](/assets/artwork/IconProjects/Bombshells_Original.png) 
+![Icons - Bombshells Original (2017)](/assets/artwork/IconProjects/Bombshells/Bombshells_Original.png) 
 
 #### **Redraw (2018)**
 
-![Icons - Bombshells Light Mode (2018)](/assets/artwork/IconProjects/Bombshells_LightMode.jpg) 
-![Icons - Bombshells Dark Mode (2018)](/assets/artwork/IconProjects/Bombshells_DarkMode.jpg)
-![Icons - Bombshells Vintage Mode (2018)](/assets/artwork/IconProjects/Bombshells_VintageMode.jpg)
+![Icons - Bombshells Light Mode (2018)](/assets/artwork/IconProjects/Bombshells/Bombshells_LightMode.jpg) 
+![Icons - Bombshells Dark Mode (2018)](/assets/artwork/IconProjects/Bombshells/Bombshells_DarkMode.jpg)
+![Icons - Bombshells Vintage Mode (2018)](/assets/artwork/IconProjects/Bombshells/Bombshells_VintageMode.jpg)
 
 #### **Original Design Sketches**
 
-![Icons - Bombshells Concept 1](/assets/artwork/IconProjects/Bombshells_Concept1.png)
-![Icons - Bombshells Concept 2](/assets/artwork/IconProjects/Bombshells_Concept2.png)
-![Icons - Bombshells Concept 3](/assets/artwork/IconProjects/Bombshells_Concept3.png)
-![Icons - Bombshells Concept 4](/assets/artwork/IconProjects/Bombshells_Concept4.png)
+![Icons - Bombshells Concept 1](/assets/artwork/IconProjects/Bombshells/Bombshells_Concept1.png)
+![Icons - Bombshells Concept 2](/assets/artwork/IconProjects/Bombshells/Bombshells_Concept2.png)
+![Icons - Bombshells Concept 3](/assets/artwork/IconProjects/Bombshells/Bombshells_Concept3.png)
+![Icons - Bombshells Concept 4](/assets/artwork/IconProjects/Bombshells/Bombshells_Concept4.png)
 
 #### **Other Bombshells Artworks**
 
-![Icons - Bombshells Pinups](/assets/artwork/IconProjects/Bombshells_Pinups.png)
+![Icons - Bombshells Pinups](/assets/artwork/IconProjects/Bombshells/Bombshells_Pinups.png)
