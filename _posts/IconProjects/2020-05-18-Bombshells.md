@@ -6,6 +6,7 @@ category: iconProjects
 _Inspired by DC Comics' series "Bombshells", an imagining of all 16 Icon characters as World War II Bombshells!_ 
 
 
+[Original](#original-(2017))
 The Bombshells edition was inspired by the DC Comics figurine line Bombshells designed by Ant Lucia. I fell in love with the designs, and I liked the idea of the famous women of DC Comics being in World War II. It was also around the time that I was brainstorming what the next project following 2.0 should be. 
 
 This, by far, was the hardest edition to design! The challenge with this project was that it was not based off of a piece of clothing, like a short dress or kimono, but dictated by a theme that I did not have any hand in. I spent quite some time studying 1940s pin ups, which is what the Bombshell designs are based off of, but that wasn't enough. I had to observe the Bombshells designs by Lucia and wanted mine to look as if they could fit in as a set with the rest. So, pin up, was the baseline, but there also needed to be some sort of superheroine-esque aspect to the costumes. 
@@ -17,7 +18,7 @@ Spell would have been a liberator, a special forces freedom fighter. Khiri would
 I liked their designs so much that I did something I typically don't do with the Yearly Design Projects: redraw it. However, I did not redesign outfits or make major modifications to their original designs. It was more just an update on graphics, so to say. I've been debating redrawing other projects, like the Dress Edition, but I think that may end up involving changing the designs. I think what motivated me to redraw it was purely the fact that I liked the Bombshells concept and all 16 designs so much. 
 
 
-**Original (2017)**
+# **Original (2017)**
 
 ![Icons - Bombshells Original (2017)](/assets/artwork/IconProjects/Bombshells_Original.png) 
 
