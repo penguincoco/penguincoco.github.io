@@ -6,6 +6,8 @@ category: myGames
 _Enter the world of Don Quixote, now imagined as an open-world adventure RPG with side quests and main quests._
 
 
+[<< Return to My Games Page]({{ site.baseurl }}{% post_url myGames %})
+
 A Narrative Assignment for Intermediate Game Design: Fall 2019.  
 
 Prompt: Given an existing IP and write 2 open-world styled side quests and 1 main quest taking place in the universe. 
