@@ -5,6 +5,7 @@ category: myGames
 ---
 _A soothing walking sim with environment puzzles._
 
+<a href="/myGames"><< Return to My Games Page</a>
 
 Welcome to the Cloud Forest, a calming digital greenhouse in which the player walks around, picks up power sources in the form of lotuses, and places them on pedestals to dynamically change the environment around them.
 

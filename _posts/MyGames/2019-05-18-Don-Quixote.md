@@ -6,7 +6,7 @@ category: myGames
 _Enter the world of Don Quixote, now imagined as an open-world adventure RPG with side quests and main quests._
 
 
-<a href="/myGames"><<Return to My Games Page</a>
+<a href="/myGames"><< Return to My Games Page</a>
 
 A Narrative Assignment for Intermediate Game Design: Fall 2019.  
 
