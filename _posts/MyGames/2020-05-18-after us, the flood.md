@@ -5,6 +5,7 @@ category: myGames
 ---
 _A narrative game with rhythm mechanics._
 
+
 <a href="/myGames"><< Return to My Games Page</a>
 
 As part of the Game Design BFA, all graduating seniors are required to complete a senior capstone project. I joined the team of _after us, the flood_ halfway through the project. 
