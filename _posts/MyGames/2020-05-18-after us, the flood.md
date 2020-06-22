@@ -21,5 +21,9 @@ My main contributions to the project were implementing non-animated visual feedb
 
 Please check out the game [here](https://autf.itch.io/afterus-demo)!
 
+<div align="center">
+<img src="https://media.giphy.com/media/fWBhCaIpf5OtnRAId9/giphy.gif"> 
+</div>
+
 ![after us, the flood - Rhythm Game](/assets/artwork/MyGames/afterus,theflood/after us, the flood_rhythmGame.png) 
 ![after us, the flood - Overworld](/assets/artwork/MyGames/afterus,theflood/after us, the flood_overworld1.png)
