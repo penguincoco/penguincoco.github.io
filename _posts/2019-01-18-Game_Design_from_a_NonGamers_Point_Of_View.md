@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Game Design from a Non-Gamer’s Point of View
-categories: [writings]
+categories: writings
 tags: [reflection]
 ---
 _How I went from being able to count all the games I’d ever played in my entire 19 years of life on two hands to a Game Design major._
