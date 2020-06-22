@@ -15,7 +15,11 @@ I was the primary 3D artist and general visual director on the project. All 3D m
 
 Please check out the game [here](https://penguincoco.itch.io/cloud-forest)!
 
-<div align="center"> ![Cloud Forest Preview](https://media.giphy.com/media/lqMQR5ppDQYUPuHOva/giphy.gif) </div>
+<div align="center">
+
+![Cloud Forest Preview](https://media.giphy.com/media/lqMQR5ppDQYUPuHOva/giphy.gif) 
+
+</div>
 
 ![Cloud Forest Outside](/assets/artwork/MyGames/CloudForest/CloudForest_Outer.jpg) 
 
