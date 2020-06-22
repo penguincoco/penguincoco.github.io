@@ -21,4 +21,4 @@ Please check out the game [here](https://penguincoco.itch.io/cloud-forest)!
 
 ![Cloud Forest Inside](/assets/artwork/MyGames/CloudForest/CloudForest_Interior.jpg) 
 
-![Cloud Forest Preview](https://github.com/penguincoco/penguincoco.github.io/blob/master/assets/artwork/MyGames/CloudForest/CloudForest-Preview.gif) 
+![Cloud Forest Preview](https://media.giphy.com/media/lqMQR5ppDQYUPuHOva/giphy.gif) 
