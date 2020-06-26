@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Redesign (2020)
-category: iconProjects
 ---
 _A total redesign of all 16 Icons characters!_  
 

@@ -49,3 +49,4 @@ Another huge shift throughout the last few years of doing Icon Projects is how t
 
  [![Redesign](/assets/artwork/IconProjects/ProjectClickIcon_Redesign.png)]({{ site.baseurl }}{% post_url 2020-05-18-Redesigns %})
  [![Oktoberfest](/assets/artwork/IconProjects/ProjectClickIcon_Oktoberfest.png)]({{ site.baseurl }}{% post_url 2020-05-18-Oktoberfest %})
+ [![Bombshells](/assets/artwork/IconProjects/ProjectClickIcon_Bombshells.png)]({{ site.baseurl }}{% post_url 2020-05-18-Bombshells %})

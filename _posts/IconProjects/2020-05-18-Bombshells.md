@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Bombshells (2018, 2017)
-category: iconProjects
 ---
 _Inspired by DC Comics' series "Bombshells", an imagining of all 16 Icon characters as World War II Bombshells!_ 
 
