@@ -47,6 +47,7 @@ For the Bombshells Edition redraw, I can't entirely remember the order I drew th
 
 Another huge shift throughout the last few years of doing Icon Projects is how the pieces are assembled. Since each girl was drawn on a separate piece of paper, I was able to be more nitpicky about placement. The redraw also happened after I started getting better at photoshop. I started being able to add cute little backgrounds for each girl, and placing their names in more dynamic, interesting places and angles (rather than just handwriting them above their heads). This also enabled me to do a "light mode" and "dark mode" for each project! It occurred to me that this may be cool when I was messing around with the saturation levels on the Bombshells edition, trying to make it look vintage and convey the 1940s WWII mood more. One of the best choices I've ever made! 
 
+ [![Steampunk](/assets/artwork/IconProjects/ProjectClickIcon_Steampunk.png)]({{ site.baseurl }}{% post_url 2020-05-18-Steampunk %})
  [![Redesign](/assets/artwork/IconProjects/ProjectClickIcon_Redesign.png)]({{ site.baseurl }}{% post_url 2020-05-18-Redesigns %})
  [![Oktoberfest](/assets/artwork/IconProjects/ProjectClickIcon_Oktoberfest.png)]({{ site.baseurl }}{% post_url 2020-05-18-Oktoberfest %})
  [![Bombshells](/assets/artwork/IconProjects/ProjectClickIcon_Bombshells.png)]({{ site.baseurl }}{% post_url 2020-05-18-Bombshells %})
