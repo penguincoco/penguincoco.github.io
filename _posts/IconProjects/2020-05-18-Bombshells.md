@@ -5,6 +5,8 @@ title: Bombshells (2018, 2017)
 _Inspired by DC Comics' series "Bombshells", an imagining of all 16 Icon characters as World War II Bombshells!_ 
 
 
+<a href="/iconProjects">[<< Return to Icon Projects Page]</a>
+
 **Jump to Section**
 
 [About](#about-this-theme)	|	[Each Character](#each-character)	|	[Original](#original-2017)	|	[Redraw](#redraw-2018)	|	[Original Design Sketches](#original-design-sketches)	|	[Other Artworks](#other-bombshells-artworks)

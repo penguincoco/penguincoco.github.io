@@ -5,6 +5,8 @@ title: Redesign (2020)
 _A total redesign of all 16 Icons characters!_  
 
 
+<a href="/iconProjects">[<< Return to Icon Projects Page]</a>
+
 **Jump to Section**
 
 [About](#about-this-theme)	|	[Each Character](#each-character)	|	[Redesign](#redesign-2020)	|	[Design Sketches](#design-sketches)
