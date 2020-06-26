@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Steampunk (2020)
-category: iconProjects
 ---
 _The Steampunk Revolution!_  
 
